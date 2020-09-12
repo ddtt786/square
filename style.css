@@ -1,0 +1,88 @@
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+
+body {
+    margin: 0;
+    font-family: 'NanumSquare', sans-serif !important;
+    -ms-user-select: none; 
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+}
+
+.bar{
+    padding: 0;
+    width: screen;
+    height: 50px;
+    background: white;
+    text-align: center;
+    color: black;
+    padding-top: 5px;
+    text-align: left;
+}
+.zac{
+    margin: auto;
+    padding: 0;
+    width: 70%;
+    height: 200px;
+    background: #f1f1f1;
+    font-size: 30px;
+    padding-top: 25px;
+    color: white;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.line{
+    padding: 0;
+    width: 60%;
+    height: 1px;
+    background: black;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+h2 {
+    text-align: center;
+}
+.ttl{
+    padding: 0;
+    width: screen;
+    height: 100px;
+    background: black;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 25px;
+    color: white;
+}
+
+.bttn {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    padding: 12px;
+    font-size: 23px;
+    font-family: 'NanumSquare', sans-serif !important;
+}
+.bttn:hover {
+    font-family: 'NanumSquare', sans-serif !important;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    border: 0;
+    padding: 12px;
+    font-size: 23px;
+    border: 1px solid black
+}
+h1 {
+    font-size: 50px;
+    margin: 10px;
+}
+
+h3 {
+    text-align: center;
+}
